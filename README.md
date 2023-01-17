@@ -1,2 +1,5 @@
 # Dice
-A very basic dice game that compares two values and display on frontend using JS
+## A very basic dice game that compares two values and display on frontend using JS
+
+### have a look
+
